@@ -1,4 +1,0 @@
-{
-    "presets": ["next/label"],
-    "plugins": ["styled-components"]
-}
